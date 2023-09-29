@@ -17,3 +17,13 @@ img{
     margin: 130px;
     border: 10px solid yellow;
 }
+.cabecalho{
+    background-color: gold;
+    display: flex;
+
+}
+.logoimg{
+    width: 50px;
+    margin-left: 60xp;
+    height: 50px;
+}
