@@ -34,9 +34,14 @@ img{
 }
  .itemlistacabecalho{
     list-style: nome;
-    color:rgb(0, 255, 55);
+    color:rgb(9, 255, 0);
     font-size: 30px;
     padding-left: 35px;
  
  }
- 
+ img{
+    border: 5px solid green
+ }
+ p{ 
+    border: 3px dotted green;
+ }
